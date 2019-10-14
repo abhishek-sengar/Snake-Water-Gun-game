@@ -34,7 +34,7 @@ for i in range(5):
 			else:
 				print('Tie      ','cpu choice ',a)
 	else:
-		i=i-1
+
 		print('Enter Valid Input')
 			
 print('Your Final Score ',p)
